@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">613362363603-j9mj0t5fuv0itkchsb6e9phi5u2p8rm8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">613362363603</string>
+    <string name="google_api_key" translatable="false">AIzaSyAipNP287iwQt0UZ9bnvlXvQdqHlZ_KjuE</string>
+    <string name="google_app_id" translatable="false">1:613362363603:android:42300c8715fb1cc997f826</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAipNP287iwQt0UZ9bnvlXvQdqHlZ_KjuE</string>
+    <string name="google_storage_bucket" translatable="false">tag-vocale.appspot.com</string>
+    <string name="project_id" translatable="false">tag-vocale</string>
+</resources>

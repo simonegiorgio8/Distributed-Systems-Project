@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613362363603",
+    "project_id": "tag-vocale",
+    "storage_bucket": "tag-vocale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613362363603:android:42300c8715fb1cc997f826",
+        "android_client_info": {
+          "package_name": "com.example.tag_vocale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613362363603-j9mj0t5fuv0itkchsb6e9phi5u2p8rm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAipNP287iwQt0UZ9bnvlXvQdqHlZ_KjuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613362363603-j9mj0t5fuv0itkchsb6e9phi5u2p8rm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
