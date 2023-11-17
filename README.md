@@ -1,16 +1,11 @@
-# tag_vocale
+# Talk2Tag
 
-A new Flutter project.
+##Android App for Voice Annotation of Captured Photos.
 
-## Getting Started
+When the user takes a photo, he can record one or more words associated with the photo and save them, linking them to the image. The app allows users to search for photos by one or more words that they can speak.
 
-This project is a starting point for a Flutter application.
+The App is developed in Dart on Flutter with the integration of Cloud Storage for Firebase and Cloud Firestore database NoSQL.
 
-A few resources to get you started if this is your first Flutter project:
+[PDF presentation here](https://github.com/simonegiorgio8/Distributed-Systems-Project/blob/main/relazioneProgetto_simone_giorgio_214575.pdf/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Author: Simone Giorgio
